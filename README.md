@@ -1,5 +1,7 @@
 ### Hi there!
 
-I'm **Roderick Qiu**, a young code lover.
+I'm [**Roderick Qiu**](https://r-q.name), a Chinese high school student, who prefer to describe himself as a tech enthusiast.
 
-To know what I am constantly working on, check out [**wnr**](https://getwnr.com/).
+Loving **Javascript**, I've created some great apps, and [**wnr**](https://github.com/RoderickQiu/wnr) is my beloved one.
+
+Also started to get amused with **Java**, I've been trying to make some progress on Android - it's still on early stage.
