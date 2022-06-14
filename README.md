@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm [**Roderick Qiu**](https://r-q.name), a Chinese high school student, who prefer to describe himself as a tech enthusiast.
+I'm [**Roderick Qiu**](https://r-q.name), a Chinese student, who prefer to describe himself as a tech enthusiast.
 
 Loving **Javascript**, I've created some great apps, and [**wnr**](https://github.com/RoderickQiu/wnr) is my beloved one.
 
