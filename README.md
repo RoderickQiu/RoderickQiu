@@ -1,5 +1,3 @@
 ### Hi there!
 
-I'm [**Roderick Qiu**](https://r-q.name), a Chinese student, who prefer to describe himself as a tech enthusiast.
-
-You can now find my résumé on [the website](https://rxresu.me/roderickqiu/student-resume).
+I'm [**Tianrun Qiu**](https://r-q.name) (Roderick), a Chinese student and a tech enthusiast. See my [résumé](https://r-q.name/resume.pdf).
